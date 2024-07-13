@@ -405,5 +405,3 @@ function CarModel() {
 CarModel()
 
 // Ans:14
-
-// Q:15
